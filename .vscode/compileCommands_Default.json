@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\jkakk\\jk_workspace\\assortrock2024\\jk_hd2\\Source\\jk_hd2\\jk_hd2.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\jkakk\\jk_workspace\\assortrock2024\\jk_hd2\\.vscode\\compileCommands_Default\\jk_hd2.1.rsp"
+		],
+		"directory": "D:\\AssortRock\\ue5.3.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\jkakk\\jk_workspace\\assortrock2024\\jk_hd2\\Source\\jk_hd2\\jk_hd2.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\jkakk\\jk_workspace\\assortrock2024\\jk_hd2\\.vscode\\compileCommands_Default\\jk_hd2.1.rsp"
+		],
+		"directory": "D:\\AssortRock\\ue5.3.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\jkakk\\jk_workspace\\assortrock2024\\jk_hd2\\Source\\jk_hd2\\jk_hd2.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\jkakk\\jk_workspace\\assortrock2024\\jk_hd2\\.vscode\\compileCommands_Default\\jk_hd2.1.rsp"
+		],
+		"directory": "D:\\AssortRock\\ue5.3.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\jkakk\\jk_workspace\\assortrock2024\\jk_hd2\\Source\\jk_hd2\\testActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\jkakk\\jk_workspace\\assortrock2024\\jk_hd2\\.vscode\\compileCommands_Default\\jk_hd2.1.rsp"
+		],
+		"directory": "D:\\AssortRock\\ue5.3.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\jkakk\\jk_workspace\\assortrock2024\\jk_hd2\\Source\\jk_hd2\\testActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\jkakk\\jk_workspace\\assortrock2024\\jk_hd2\\.vscode\\compileCommands_Default\\jk_hd2.1.rsp"
+		],
+		"directory": "D:\\AssortRock\\ue5.3.2\\Engine\\Source"
+	}
+]
