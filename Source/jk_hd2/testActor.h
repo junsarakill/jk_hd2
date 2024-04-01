@@ -18,6 +18,8 @@ public:
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+	FTransform tr = GetTransform();
+	UStaticMeshComponent* StaticMeshComponent;
 
 public:	
 	// Called every frame
